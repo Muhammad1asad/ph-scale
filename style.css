@@ -1,0 +1,133 @@
+#head{
+    background-color: rgba(211, 158, 89, 0.603);
+    color: aquamarine;
+    text-align:center;
+} 
+#p1{background-color: #2a84c5;
+    margin:0% ;
+    padding: 6px;
+    color: rgba(255, 255, 255, 0.616);
+
+}
+#p2{background-color:#2092DA ;
+    margin:0%;
+    margin-left: 1%;
+    margin-right: 1%;
+    pading: 6px;
+    color: rgba(255, 255, 255, 0.678);
+    text-align: center;
+}
+#p3{background-color:#1b9DD8;
+    margin: 0%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 6px;
+    color: gray;
+    text-align: center;
+
+
+}
+
+ #p4{ background-color:#36a9df;
+    margin: 0%;
+    margin-right: 3%;
+    margin-left:3% ;
+    padding: 6px;
+    color: gray;
+    text-align: center;
+
+}
+
+#p5{background-color:#55b6e6;
+    margin: 0%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 6px;
+    text-align: center;
+    color: gray;
+
+}
+#p6{background-color: #6fc1eb;
+    margin:0%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+}
+#p7{background-color: #8ecaee;
+    margin: 0%;
+    margin-left: 6%;
+    margin-right:6%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+
+
+}
+#p8{background-color: #1ab585;
+    padding:6px ;
+    margin: 0%;
+    margin-left: 7%;
+    margin-right: 7%;
+    text-align: center;
+    color: grey;
+}
+#p9{background-color:#f5b1cf;
+    margin: 0%;
+    margin-right: 6%;
+    margin-left: 6%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+}
+#p10{background-color: #f49ec2;
+    margin: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+}
+#p11{background-color: #f4a0cf;
+    margin: 0%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 6px ;
+    text-align: center;
+    color: grey;
+
+}
+#p12{background-color: #faa9cc;
+    margin: 0%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 6px;
+    text-align: center; 
+    color: grey;
+
+}
+#p13{background-color: #f79ec4;
+    margin: 0%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+}
+#p14{background-color: #fa95c1;
+    margin: 0%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+}
+#p15{background-color: #f1a5c6;
+    margin: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 6px;
+    text-align: center;
+    color: grey;
+}
